@@ -8,7 +8,7 @@ A workbook that analyzes stocks at the click of a button has been created for St
 ![Link to Stock Analysis file](VBA_Challenge.xlsm) 
 
 ### Purpose
-The purpose of this challenge is to edit or refactor the original code we have prepared for Steve to make it more efficient. We want the code to provide us with the same information as the original code by looping through all the data once. After refactoring, the code should take fewer steps, using less memory, or the logic of the code is improved to make it easier for future users to read. 
+The purpose of this challenge is to edit or refactor the original code we have prepared for Steve to make it more efficient. We want the code to provide us with the same information as the original code by looping through all the data once. After refactoring, the code should take fewer steps, use less memory, or the logic of the code should improve in order to make it easier for future users to read. 
 
 ## Results
 To refactor the original code, the *tickerIndex* is set to zero before looping over the rows and the arrays were created for *tickers*, *ticketVolumes*, *tickerStartingPrices*, and *tickerEndingPrices*
@@ -55,8 +55,8 @@ If not done properly, modifying code can introduce new bugs and errors into the 
 
 ### Pros and cons of refactoring the original VBA script
 
-The refactored code for this project takes less steps and it is easier to understand. The refactored scripts run a lot faster than the original. 
-Steve can now analyze more stocks with the improved spreadsheet. 
-Refactoring does take time, when working on this VBA_Challenge, it was a little bit challenging to get the code run correctly. 
+The pros of the refactored code for this project is that it takes less steps and it is easier to understand than the original code. The refactored script runs a lot faster than the original. Steve can now analyze more stocks with the improved spreadsheet. 
+The cons of refactoring is that it did take time, when working on this VBA_Challenge, it was a little bit challenging to get the code run correctly. 
+In the process of refactoring, I could have introduced errors and affect the output of the analyses. 
 
 
