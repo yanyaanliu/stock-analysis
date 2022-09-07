@@ -5,7 +5,7 @@
 In this project, we are helping Steve analize some stock data for his parents. Steve wants to find the total daily volume and yearly return for each stock.
 A workbook that analyzes stocks at the click of a button has been created for Steve. However, he now wants to expand the dataset to include the entire stock market and our current VBA code might not be capable or efficient enough to do so. 
 
-![Link to Stock Analysis file](VBA_Challenge.xlsx) 
+![Link to Stock Analysis file](VBA_Challenge.xlsm) 
 
 ### Purpose
 The purpose of this challenge is to edit or refactor the original code we have prepared for Steve to make it more efficient. We want the code to provide us with the same information as the original code by looping through all the data once. After refactoring, the code should take fewer steps, using less memory, or the logic of the code is improved to make it easier for future users to read. 
