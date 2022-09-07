@@ -36,7 +36,7 @@ For 2018:
 <br />
 ![original2018](/Resources/VBA_Challenge_2018.png)
 ![refactored2018](/Resources/VBA_Challenge_2018_Refactored.png)
-
+<br />
 The refactored code is much more efficient and it runs approximately 0.9 seconds faster than the original script.
 
 
