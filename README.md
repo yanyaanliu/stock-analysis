@@ -56,7 +56,7 @@ If not done properly, modifying code can introduce new bugs and errors into the 
 ### Pros and cons of refactoring the original VBA script
 
 The pros of the refactored code for this project is that it takes less steps and it is easier to understand than the original code. The refactored script runs a lot faster than the original. Steve can now analyze more stocks with the improved spreadsheet. 
-The cons of refactoring is that it did take time, when working on this VBA_Challenge, it was a little bit challenging to get the code run correctly. 
+The cons of refactoring is that it can take a bit of time, when working on this project, it was a little bit challenging to get the refactored code to run correctly. 
 In the process of refactoring, I could have introduced errors and affect the output of the analyses. 
 
 
