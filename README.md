@@ -26,11 +26,12 @@ Here is the output for 2018 original and refactored code:
 ![outputrefactored](/images/outputrefactored.png)
 ![outputroriginal](/images/outputoriginal.png)
 
-The execeution times of the original script and the refactored script are:
+The execeution times of the original script and the refactored script are:<br />
 For 2017:
 <br />
 ![orignal2017](/Resources/VBA_Challenge_2017.png)
 ![refactored2017](/Resources/VBA_Challenge_2017_Refactored.png)
+<br />
 For 2018: 
 <br />
 ![original2018](/Resources/VBA_Challenge_2018.png)
