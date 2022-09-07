@@ -20,8 +20,8 @@ The new script loops through stock data, reading and storing all of the followin
 
 ![code2](/images/code2.png)
 
-After running the refactored code, both the outputs, original and refactored, for the 2017 and 2018 stock analyses match. 
-Here is the output for 2018 original and refactored: 
+After running the refactored code, both the outputs, original and refactored, for the 2017 and 2018 stock analyses match. <br />
+Here is the output for 2018 original and refactored code: 
 <br />
 ![outputrefactored](/images/outputrefactored.png)
 ![outputroriginal](/images/outputoriginal.png)
